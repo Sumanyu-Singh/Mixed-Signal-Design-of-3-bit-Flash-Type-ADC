@@ -1,0 +1,4 @@
+Circuit: * C:\Users\suman\eSim-Workspace\ADC\ADC.cir
+
+Fatal Error: Unknown subcircuit called in:
+   x2 net-_r10-pad1_ net-_r1-pad2_ va gnd net-_r10-pad2_ net-_u4-pad1_ net-_x1-pad7_ ? lm_741

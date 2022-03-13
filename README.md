@@ -187,8 +187,10 @@ For insert the digital logic of encoder, we have to create the model of verilog 
 
 # Schematics
 Below is the schematic plotted on Eeschemia
-      ![4](https://user-images.githubusercontent.com/100671647/157716172-49b65d9e-49d2-498e-8700-4a32bb06d1ac.JPG)
-      ![5](https://user-images.githubusercontent.com/100671647/157722363-fbc1191d-0cb2-4375-80ee-f2b74c1e721a.JPG)
+
+![8](https://user-images.githubusercontent.com/100671647/158066183-ae810383-2978-4d66-b05e-b4fd3d4ccfdb.JPG)
+
+![9](https://user-images.githubusercontent.com/100671647/158067109-f3329158-999c-4763-bf33-2fd308009c09.JPG)
 
      
 
@@ -202,7 +204,7 @@ At next stage, the ADC bridge will convert resp. analog voltages to digital form
 
 # Netlist
 
-
+https://github.com/Sumanyu-Singh/Mixed-Signal-Design-of-3-bit-Flash-Type-ADC/tree/main/Netlists
 
 
 # Output Waveforms
@@ -218,7 +220,7 @@ For output testing I have taken Vref as 5v and Va as 5v. Also positive supply is
 
 # Author
 
-Sumanyu Singh, Mtech, Indian Institute of Information Technology, Allahabad, U.P
+Sumanyu Singh, Mtech (Microelectronics), Indian Institute of Information Technology, Allahabad, U.P, 211015
 
 # Acknowledgements
 
